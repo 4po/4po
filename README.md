@@ -19,7 +19,7 @@ const 4po = {
 };
 ```
 
-![iCharles's github stats](https://github-readme-stats.vercel.app/api?username=4po&hide=contribs,prs&count_private=true&show_icons=true)
+![4po's github stats](https://github-readme-stats.vercel.app/api?username=4po&hide=contribs,prs&count_private=true&show_icons=true)
 
 <a href="https://github.com/4po">
   <img src="https://img.shields.io/github/followers/4po">
