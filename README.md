@@ -42,6 +42,9 @@ const 4po = {
          <a href="https://discord.bio/p/apo">
          <img src="https://img.shields.io/static/v1?label=Website&logo=CSS3&logoColor=1572B6&message=Click%20Here&color=1572B6">
          </a>
+
+<a class="github-button" href="https://github.com/ntkme" aria-label="Follow @ntkme on GitHub">Follow @ntkme</a>
+
 <br>
 
 ---
