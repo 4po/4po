@@ -1,16 +1,35 @@
-### Hi there 👋
+![head.png](https://i.imgur.com/eddPGeU.png)
 
-<!--
-**4po/4po** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, thanks for stopping by, this is **Charles Zhang**.
 
-Here are some ideas to get you started:
+<img align='right' src="https://media0.giphy.com/media/TPH00oygKXbWI0gO0m/giphy.gif" width="230">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const 4po = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["web dev", "tech", "game"],
+    technologies: {
+        frontEnd: {
+            js: ["Vue", "React", "Angular"],
+            css: ["bootstrap", "sass"]
+        },
+        backEnd: ["Java", "PHP"],
+        databases: ["MySql", "oracle"],
+    }
+};
+```
+
+![iCharles's github stats](https://github-readme-stats.vercel.app/api?username=4po&hide=contribs,prs&count_private=true&show_icons=true)
+
+<a href="https://github.com/4po">
+  <img src="https://img.shields.io/github/followers/4po">
+</a>
+<a href="https://github.com/4po">
+   <img src="https://komarev.com/ghpvc/?username=4po">
+</a>
+
+![bottom.png](https://i.imgur.com/BvKzN3U.gif)
+
+---
+
+⭐️ From [@4po](https://github.com/4po)
