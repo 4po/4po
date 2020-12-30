@@ -18,6 +18,9 @@ const 4po = {
     }
 };
 ```
+<p align="center">
+─────────────────────────────────────
+</p>
 
 ![4po's github stats](https://github-readme-stats.vercel.app/api?username=4po&hide=contribs,prs&count_private=true&show_icons=true)
 
