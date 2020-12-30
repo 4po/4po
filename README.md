@@ -43,6 +43,7 @@ const 4po = {
          <img src="https://img.shields.io/static/v1?label=Website&logo=CSS3&logoColor=1572B6&message=Click%20Here&color=1572B6">
          </a>
 
+<!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/4po" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @4po on GitHub">Follow @4po</a>
 
 <br>
