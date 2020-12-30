@@ -1,4 +1,4 @@
-![head.png](https://im3.ezgif.com/tmp/ezgif-3-e26851667408.gif)
+![head.png](https://i.imgur.com/tSylRNM.gif)
 
 <p align="center">
 ─────────────────────────────────────
