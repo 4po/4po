@@ -18,8 +18,7 @@ const 4po = {
     }
 };
 ```
-<p align="center">
-─────────────────────────────────────
+
 ![4po's github stats](https://github-readme-stats.vercel.app/api?username=4po&hide=contribs,prs&count_private=true&show_icons=true)
 
 <a href="https://github.com/4po">
@@ -37,8 +36,7 @@ const 4po = {
          <img src="https://img.shields.io/static/v1?label=Website&logo=CSS3&logoColor=1572B6&message=Click%20Here&color=1572B6">
          </a>
 <br>
-<p align="center">
-─────────────────────────────────────
+
 ---
 
 ⭐️ From [@4po](https://github.com/4po)
