@@ -28,7 +28,6 @@ const 4po = {
    <img src="https://komarev.com/ghpvc/?username=4po">
 </a>
 
-![bottom.png](https://i.imgur.com/BvKzN3U.gif)
 
 ---
 
