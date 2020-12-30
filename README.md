@@ -43,7 +43,7 @@ const 4po = {
          <img src="https://img.shields.io/static/v1?label=Website&logo=CSS3&logoColor=1572B6&message=Click%20Here&color=1572B6">
          </a>
 
-<a class="github-button" href="https://github.com/ntkme" aria-label="Follow @ntkme on GitHub">Follow @ntkme</a>
+<a class="github-button" href="https://github.com/4po" aria-label="Follow @4po on GitHub">Follow @4po</a>
 
 <br>
 
