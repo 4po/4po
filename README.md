@@ -28,6 +28,14 @@ const 4po = {
    <img src="https://komarev.com/ghpvc/?username=4po">
 </a>
 
+<p align="center">
+         <a href="https://discord.gg/ZbXUmGsZPH">
+         <img src="https://img.shields.io/static/v1?label=Discord&logo=Discord&message=Click%20Here&color=7289DA">
+         </a>
+         <a href="https://discord.bio/p/apo">
+         <img src="https://img.shields.io/static/v1?label=Website&logo=CSS3&logoColor=1572B6&message=Click%20Here&color=1572B6">
+         </a>
+<br>
 
 ---
 
