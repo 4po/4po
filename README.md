@@ -37,7 +37,9 @@ const 4po = {
 <a href="https://github.com/4po">
    <img src="https://komarev.com/ghpvc/?username=4po">
 </a>
-
+<a href="https://discord.bio/p/apo">
+         <img src="https://img.shields.io/static/v1?label=Website&logo=CSS3&logoColor=1572B6&message=Click%20Here&color=1572B6">
+         </a>
 
 <p align="center">
   <a href="https://discord.gg/ZbXUmGsZPH"><img src="https://media.discordapp.net/attachments/789261670069043232/792234747463467018/ezgif-3-7cb338bd37d8.gif"></a>
@@ -47,9 +49,7 @@ const 4po = {
          <a href="https://discord.gg/ZbXUmGsZPH">
          <img src="https://i.imgur.com/FWAidhC.png">
          </a>
-         <a href="https://discord.bio/p/apo">
-         <img src="https://img.shields.io/static/v1?label=Website&logo=CSS3&logoColor=1572B6&message=Click%20Here&color=1572B6">
-         </a>
+      
 
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/4po" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @4po on GitHub">Follow @4po</a>
