@@ -6,7 +6,7 @@
 
 Hi there, thanks for stopping by, this is **Younes Azem ( 4po )**.
 
-<img align='right' src="https://media0.giphy.com/media/TPH00oygKXbWI0gO0m/giphy.gif" width="230">
+<img align='right' src="https://pa1.narvii.com/6877/e63afeba7fde46e0cdc6b2ee65c527f70cbef8b8r1-1170-1050_00.gif" width="230">
 
 ```javascript
 const 4po = {
