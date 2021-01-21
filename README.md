@@ -1,3 +1,62 @@
-   albâtre
+![head.png](https://i.imgur.com/tSylRNM.gif)
 
-            loin de moi l'idée de graver dans le marbre de tailler dans une écorce d'arbre loin de moi l'idée de suggérer que je m'en moque que je n'en ai rien à faire que guère je ne m'en soucie loin de moi ces folies mais je m'échine depuis octobre et pourquoi donc depuis début octobre même et qui m'aime me suive depuis octobre depuis ce même dernier octobre le trois du mois je crois depuis ce temps-là depuis trois mois depuis trois mois et une semaine je m'échine ailleurs et le très long texte n'a pas avancé d'un poil pas beaucoup sans doute est-ce mon côté velléitaire qui ne cesse de me jouer des tours et les méandres du très long texte se sont figés comme une gelée le long des parois d'un bocal de verre et je vitupère contre mes essais éphémères mon tempérament affreusement velléitaire et ce teint d'albâtre qui n'est pas le mien comme je voudrais qu'il fût d'albâtre ou d'ébène ou autrement même sans métaphore mais au moins qu'il ait quelque tenue que mon visage sans retenue puisse soudain passer pour un tissu une pierre un songe soit en quelque sorte un tableau fasse tableau mais ce n'est pas le cas même ce mot albâtre jeté au visage jeté tout à trac sur la page en haut de page ce mot me défigure ne me figure pas ne me représente pas ne figure rien de ce que je suis de ce que je pense être et je suis encore et toujours circonspect dans le doute et ce mot n'apporte rien aucune réponse et donc toujours je me jette à la figure ces accusations comme des bouteilles non pas à la mer mais bien dans la gueule oui je me donne des coups de bouteille tessons épars sur le parquet et mes joues ensanglantées enfin que ce soit ou non métaphore que le mot d'albâtre me figure ou non je prends ces coups ces reproches en plein visage et je m'accuse d'être velléitaire aussi bien sûr pour trop entreprendre je lance cent feux il est normal qu'un certain nombre des foyers meure et même ne démarre qu'à peine avant de s'achever dans un bruit de feuilles mouillées de bois mort de bois trop vert encore pour prendre tout cela encore métaphore et toujours métaphore peut-être est-ce le mot albâtre qui appelle autant de métaphores ou bien les conditions d'écriture du très long texte que par facétie ou encore autodérision je pourrais être tenté de rebaptiser très long texte interrompu et l'adjectif interrompu ici au milieu de la ligne interrompt mes songes interrompt le torrent de sornettes lance d'autres tirades propose peut-être d'autres charades mais pour mieux me ramener vers le rivage bourbeux où je ne cesse de me lancer ces reproches à la figure velléitaire velléitaire et me voici encore à ne pas même essayer de me justifier moi-même de tout cela feux mal éteints et feux qui n'ont jamais pris aussi me trouvé-je vingt vaines justifications improbables même si certaines sont justes par ailleurs comme dans le cas du projet de traduire régulièrement et pensais-je au début au moins une fois par semaine un poème et qui s'est enlisé après à peine trois ou quatre tracasseries mais cela reprendra parfois aussi depuis début octobre le trois je crois suspendu à ce mot d'albâtre depuis le trois octobre le trois je crois je me disais que pour être interrompu ou inachevé le très long texte recelait de vraies possibilités et qu'il suffisait suffirait eût suffi de s'y remettre et la machine reprendrait du galon non là cette image-là ne va pas je mélange les formules croise les figures de style et donc je pensais qu'il me faudrait toutes proportions gardées envisager ces carnets comme Paul Valéry travaillant régulièrement et sans espoir d'en finir jamais chaque matin à ses Cahiers désormais regroupés en deux tomes en Pléiade et que j'ai dévorés consultés admirés lus compulsés longuement naguère mais il faudrait dire jadis ou balancer entre les deux lus disons entre 1993 et 1997 et donc toutes proportions gardées je me verrais bien ainsi à reprendre tel chantier interrompu trois mois et le faisant avancer un petit peu mais enfin ce n'est pas possible il ne va pas se comparer à Paul Valéry l'autre oiseux oisif ex-oisien de surcroît ancien oisien into the bargain non il ne va pas se comparer à Paul Valéry tout de même alors que seulement et il nous l'a dit même avec métaphores tout le tintouin oui oui noir sur blanc dit ce n'est rien d'autre qu'un affreux
+<p align="center">
+─────────────────────────────────────
+</p>
+
+Hi there, thanks for stopping by, this is **Younes Azem ( 4po )**.
+
+<img align='right' src="https://pa1.narvii.com/6877/e63afeba7fde46e0cdc6b2ee65c527f70cbef8b8r1-1170-1050_00.gif" width="230">
+
+```javascript
+const 4po = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["web dev", "tech", "game"],
+    technologies: {
+        frontEnd: {
+            js: ["Vue", "React", "Angular"],
+            css: ["bootstrap", "sass"]
+        },
+        backEnd: ["Java", "PHP"],
+        databases: ["MySql", "oracle"],
+    }
+};
+```
+
+### My skills <br/> <br/> ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) ![JavaScript](https://camo.githubusercontent.com/4fdfb0cf06c96ca8a5ab446e39e0518bb0ad5380a284c2e7bb9e3d23c34f9626/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d4646454530303f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b) ![PHP](https://img.shields.io/badge/-PHP-FFB120?style=flat-square&logo=php&logoColor=white) ![REACT](https://img.shields.io/badge/-React-45B8D8?style=flat-square&logo=react&logoColor=white) ![C#](https://img.shields.io/badge/-C%20Sharp-44CF90?style=flat-square&logo=c%20sharp&logoColor=white) ![nodejs](https://img.shields.io/badge/-NodeJS-43853D?style=flat-square&logo=Node.js&logoColor=white)
+
+<p align="center">
+─────────────────────────────────────
+</p>
+
+![4po's github stats](https://github-readme-stats.vercel.app/api?username=4po&hide=contribs,prs&count_private=true&show_icons=true)
+
+<a href="https://github.com/4po">
+  <img src="https://img.shields.io/github/followers/4po">
+</a>
+<a href="https://github.com/4po">
+   <img src="https://komarev.com/ghpvc/?username=4po">
+</a>
+<a href="https://discord.bio/p/apo">
+         <img src="https://img.shields.io/static/v1?label=Website&logo=CSS3&logoColor=1572B6&message=Click%20Here&color=1572B6">
+         </a>
+
+<p align="center">
+  <a href="https://discord.gg/genesis"><img src="https://media.discordapp.net/attachments/562023908644093982/800525768068300830/jjjjj.gif"></a>
+</p>
+
+<p align="center">
+         <a href="https://discord.gg/ZbXUmGsZPH">
+         <img src="https://i.imgur.com/FWAidhC.png">
+         </a>
+      
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/4po" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @4po on GitHub">Follow @4po</a>
+
+
+<br>
+
+---
+
+🔎 From [@4po](https://github.com/4po)
