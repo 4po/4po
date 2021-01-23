@@ -6,7 +6,7 @@
 
 Hi there, thanks for stopping by, this is **Younes Azem ( 4po )**.
 
-<img align='right' src="https://media.discordapp.net/attachments/801861967811575828/802605386099720192/tenor_3.gif" width="230">
+<img align='right' src="https://net-security.fr/wp-content/uploads/arch_logo-1.png" width="230">
 
 ```javascript
 const 4po = {
