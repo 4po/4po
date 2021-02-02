@@ -42,7 +42,7 @@ const 4po = {
          </a>
 
 <p align="center">
-  <a href="https://discord.gg/segafr"><img src="https://media.discordapp.net/attachments/801861967811575828/802605005134757948/ezgif-3-8a2697fb32a0.gif"></a>
+  <a href="https://discord.gg/segafr"><img src="https://images-ext-2.discordapp.net/external/PXcO-UUOLBrBneYhOi_MqW_uwmgPhdRLOjP5aUdlu20/https/images-ext-1.discordapp.net/external/-B4FXcfBuwQgqgYSjLQSNIfasxP2Mh7XdRnmE983DNQ/https/data.whicdn.com/images/76994599/original.gif"></a>
 </p>
 
 <p align="center">
