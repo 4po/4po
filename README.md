@@ -6,7 +6,7 @@
 
 Hi there, thanks for stopping by, this is **Younes Azem ( 4po )**.
 
-<img align='right' src="https://net-security.fr/wp-content/uploads/arch_logo-1.png" width="230">
+<img align='right' src="https://xyne.archlinux.ca/img/arch_linux_programming_language_logos/arch-ruby_logo_2.png" width="230">
 
 ```javascript
 const 4po = {
