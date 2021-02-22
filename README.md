@@ -7,7 +7,7 @@
 Hi there, thanks for stopping by, this is **Younes Azem ( 4po )**.
 And go listen my new song on soundcloud https://soundcloud.com/4po
 
-<img align='right' src="https://media1.giphy.com/media/3d4Ic3Aziz4VFXTocm/source.gif" width="230">
+<img align='right' src="http://25.media.tumblr.com/cdc2c05a0884c9edf46a0709e031bd05/tumblr_mp7utnHvUJ1r14stqo1_500.gif" width="230">
 
 ```javascript
 const 4po = {
