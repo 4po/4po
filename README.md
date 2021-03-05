@@ -48,7 +48,7 @@ const 4po = {
 
 <p align="center">
          <a href="https://discord.gg/apo">
-         <img src="https://i2.wp.com/metaldecorstudios.com/wp-content/uploads/2018/12/american-flag-traditional.jpg?fit=350%2C212&ssl=1">
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Mark_of_the_United_States_Army.svg/1200px-Mark_of_the_United_States_Army.svg.png">
          </a>
       
 
