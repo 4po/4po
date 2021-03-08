@@ -48,7 +48,7 @@ const 4po = {
 
 <p align="center">
          <a href="https://discord.gg/apo">
-         <img src="https://media.discordapp.net/attachments/814554033653678120/818611704439111740/161524250119684368_1.gif">
+         <img src="https://media.discordapp.net/attachments/814554033653678120/818612445386899486/ezgif-1-268311d9b6c8.gif">
          </a>
       
 
