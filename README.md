@@ -7,7 +7,7 @@
 Hi there, thanks for stopping by, this is **Leonhart B. ( 4po )**.
 And go listen my new song on soundcloud https://soundcloud.com/4po
 
-<img align='right' src="https://media.discordapp.net/attachments/814554033653678120/818931928933728318/ezgif-2-f0fd5a35269d.gif width="230">
+<img align='right' src="https://media.discordapp.net/attachments/814554033653678120/818931928933728318/ezgif-2-f0fd5a35269d.gif" width="230">
 
 ```javascript
 const 4po = {
