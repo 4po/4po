@@ -60,4 +60,4 @@ const 4po = {
 
 ---
 
-🔎 From [@4po](https://github.com/glock9v)
+🔎 From [@glock9v](https://github.com/glock9v)
