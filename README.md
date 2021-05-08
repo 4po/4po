@@ -4,8 +4,8 @@
 ─────────────────────────────────────
 </p>
 
-Hi there, thanks for stopping by, this is **Leonhart B. ( 4po )**.
-And go listen my new song on soundcloud https://soundcloud.com/4po
+Hi there, thanks for stopping by, this is **Leonhart B. ( glock )**.
+And go listen my new song on soundcloud https://soundcloud.com/glock9v
 
 <img align='right' src="https://media0.giphy.com/media/vwF24ptRKfRCgGW7pg/source.gif" width="230">
 
@@ -35,7 +35,7 @@ const 4po = {
 <a href="https://github.com/glock9v">
   <img src="https://img.shields.io/github/followers/glock9v">
 </a>
-<a href="https://github.com/4po">
+<a href="https://github.com/glock9v">
    <img src="https://komarev.com/ghpvc/?username=4po">
 </a>
 <a href="https://discord.bio/p/apo">
@@ -47,17 +47,17 @@ const 4po = {
 </p>
 
 <p align="center">
-         <a href="https://discord.gg/apo">
+         <a href="https://discord.gg/santamaria">
          <img src="https://media.discordapp.net/attachments/814554033653678120/818948744493006948/ezgif-3-c779f8f44f6e.gif"> 
          </a>
       
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://twitter.com/4poUser" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @4po on GitHub">Follow @4po</a>
+<a class="github-button" href="https://twitter.com/glock9v" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @glock9v on GitHub">Follow @glock9v</a>
 
 
 <br>
 
 ---
 
-🔎 From [@4po](https://github.com/4po)
+🔎 From [@4po](https://github.com/glock9v)
