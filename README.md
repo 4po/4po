@@ -4,7 +4,7 @@
 ─────────────────────────────────────
 </p>
 
-Hi there, thanks for stopping by, this is **Leonhart B. ( glock )**.
+Hi there, thanks for stopping by, this is **Leonhart B. ( apo | glock9v )**.
 And go listen my new song on soundcloud https://soundcloud.com/glock9v
 
 <img align='right' src="https://media0.giphy.com/media/vwF24ptRKfRCgGW7pg/source.gif" width="230">
