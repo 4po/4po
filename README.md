@@ -7,7 +7,7 @@
 Hi there, thanks for stopping by, this is **Leonhart B. ( apo | glock9v )**.
 And go listen my new song on soundcloud https://soundcloud.com/glock9v
 
-<img align='right' src="https://media0.giphy.com/media/vwF24ptRKfRCgGW7pg/source.gif" width="230">
+<img align='right' src="https://static.wixstatic.com/media/9ef124_9b8a0cad8615499f841694ec2542230f~mv2.gif" width="230">
 
 ```javascript
 const 4po = {
