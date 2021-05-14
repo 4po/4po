@@ -32,10 +32,10 @@ const 4po = {
 
 ![glock's github stats](https://github-readme-stats.vercel.app/api?username=glock9v&hide=contribs,prs&count_private=true&show_icons=true)
 
-<a href="https://github.com/glock9v">
-  <img src="https://img.shields.io/github/followers/glock9v">
+<a href="https://github.com/4po">
+  <img src="https://img.shields.io/github/followers/4po">
 </a>
-<a href="https://github.com/glock9v">
+<a href="https://github.com/4po">
    <img src="https://komarev.com/ghpvc/?username=4po">
 </a>
 <a href="https://discord.bio/p/apo">
@@ -53,11 +53,11 @@ const 4po = {
       
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://twitter.com/glock9v" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @glock9v on GitHub">Follow @glock9v</a>
+<a class="github-button" href="https://twitter.com/4poUser" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @glock9v on GitHub">Follow @4po</a>
 
 
 <br>
 
 ---
 
-🔎 From [@glock9v](https://github.com/glock9v)
+🔎 From [@4po](https://github.com/4po)
