@@ -44,7 +44,7 @@ const 4po = {
          </a>
 
 <p align="center">
-   <a href="https://discord.gg/santamaria">
+   <a href="https://discord.gg/congo">
          <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Animated-Flag-Russia_2.gif" width="78"> 
 </p>
 
