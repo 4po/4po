@@ -64,4 +64,4 @@ const 4po = {
 ---
 
 🔎 From [@4po](https://github.com/4po)
-🔎 Instagram [@4po](https://www.instagram.com/leonhski/)
+🔎 Instagram [@leonhski](https://www.instagram.com/leonhski/)
