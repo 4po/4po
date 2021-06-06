@@ -67,7 +67,7 @@ const 4po = {
          </a>
 https://github.com/ProphecyGit https://github.com/prphcy
 
-    ---
+    --- Github de la team Prophecy.
 
 🔎 From [@4po](https://github.com/4po)
 🔎 Instagram [@leonhski](https://www.instagram.com/leonhski/)
