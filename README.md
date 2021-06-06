@@ -1,4 +1,4 @@
-![head.png]<img src="https://i.imgur.com/LAajnm0.gif" width="78"> 
+<img src="https://i.imgur.com/LAajnm0.gif" width="500"> 
 
 <p align="center">
 ─────────────────────────────────────
