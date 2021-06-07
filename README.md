@@ -51,7 +51,7 @@ const 4po = {
 
 
 <a href="https://discord.gg/apo">
-   <img align='right' src="https://komarev.com/ghpvc/?username=4po">
+   <img align='right' src="https://komarev.com/ghpvc/?username=your-github-username&color=8136CA">
 </a>
 
 
