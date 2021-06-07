@@ -38,7 +38,7 @@ const 4po = {
   <img src="https://img.shields.io/github/followers/4po?color=black&label=4po&style=for-the-badge">
 </a>
 <a href="https://github.com/4po">
-   <img src="https://komarev.com/ghpvc/?username=4po">
+   <img src="https://img.shields.io/steam/views/4po?color=black&label=VUES&style=for-the-badge">
 </a>
 <a href="https://discord.bio/p/apo">
          <img src="https://img.shields.io/static/v1?label=Website&logo=CSS3&logoColor=1572B6&message=Click%20Here&color=1572B6">
