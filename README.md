@@ -41,7 +41,7 @@ const 4po = {
 </a>
 
 <a href="https://discord.bio/p/apo">
-         <img src="https://img.shields.io/website?color=purple&down_color=black&down_message=black&label=DISCORD&logo=black&logoColor=black&style=for-the-badge&up_color=black&up_message=DISCORD.GG%2FAPO&url=https%3A%2F%2Fdiscord.gg%2Fapo">
+         <img src="https://img.shields.io/website?color=8136CA&down_color=black&down_message=black&label=DISCORD&logo=black&logoColor=black&style=for-the-badge&up_color=black&up_message=DISCORD.GG%2FAPO&url=https%3A%2F%2Fdiscord.gg%2Fapo">
          </a>
 
 
@@ -68,7 +68,7 @@ const 4po = {
 
 <!-- Place this tag where you want the button to render. -->
 
-<a href="https://twitter.com/4poUser"><img align='left' src="https://img.shields.io/twitter/follow/4poUser?color=purple&logo=caca&logoColor=black&style=for-the-badge">
+<a href="https://twitter.com/4poUser"><img align='left' src="https://img.shields.io/twitter/follow/4poUser?color=8136CA&logo=caca&logoColor=black&style=for-the-badge">
    
     
 <a class="github-button" href="https://twitter.com/4poUser" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @g4po on GitHub">sur Twitter</a>
