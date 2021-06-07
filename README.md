@@ -71,7 +71,7 @@ const 4po = {
 <a href="https://twitter.com/4poUser"><img align='left' src="https://img.shields.io/twitter/follow/4poUser?color=purple&logo=caca&logoColor=black&style=for-the-badge">
    
     
-<a class="github-button" href="https://twitter.com/4poUser" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @g4po on GitHub">Follow @4po sur Twitter</a>
+<a class="github-button" href="https://twitter.com/4poUser" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @g4po on GitHub">sur Twitter</a>
 
 
 <br>
