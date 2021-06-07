@@ -50,9 +50,11 @@ const 4po = {
 
 
 
-<a href="https://github.com/4po">
-   <img align='left' src="(https://komarev.com/ghpvc/?username=4po)">
+<a href="https://discord.gg/apo">
+   <img src="https://komarev.com/ghpvc/?username=4po">
 </a>
+
+
 
 
 <p align="center">
