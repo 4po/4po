@@ -35,7 +35,7 @@ const 4po = {
 ![4po's github stats](https://github-readme-stats.vercel.app/api?username=4po&show_icons=true&theme=radical)
 
 <a href="https://github.com/4po">
-  <img src="https://img.shields.io/github/followers/4po">
+  <img src="https://img.shields.io/github/followers/4po?color=black&label=4po&style=for-the-badge">
 </a>
 <a href="https://github.com/4po">
    <img src="https://komarev.com/ghpvc/?username=4po">
