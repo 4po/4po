@@ -68,8 +68,7 @@ const 4po = {
 
 <!-- Place this tag where you want the button to render. -->
 
-<a href="https://discord.bio/p/apo">
-         <img align='left' src="https://img.shields.io/twitter/follow/4poUser?color=purple&logo=caca&logoColor=black&style=for-the-badge">
+<a href="https://discord.bio/p/apo"><img align='left' src="https://img.shields.io/twitter/follow/4poUser?color=purple&logo=caca&logoColor=black&style=for-the-badge">
          </a>
 
 
