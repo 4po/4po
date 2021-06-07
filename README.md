@@ -41,7 +41,7 @@ const 4po = {
    <img src="https://img.shields.io/steam/views/4po?color=black&label=VUES&style=for-the-badge">
 </a>
 <a href="https://discord.bio/p/apo">
-         <img src="https://img.shields.io/static/v1?label=Website&logo=CSS3&logoColor=1572B6&message=Click%20Here&color=1572B6">
+         <img src="https://img.shields.io/website?color=black&down_color=black&down_message=black&label=DISCORD&logo=black&logoColor=black&style=for-the-badge&up_color=black&up_message=DISCORD.GG%2FAPO&url=https%3A%2F%2Fdiscord.gg%2Fapo">
          </a>
 
 <p align="center">
