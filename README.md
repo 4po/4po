@@ -37,11 +37,11 @@ const 4po = {
 
 
 <a href="https://github.com/4po">
-  <img src="https://img.shields.io/github/followers/4po?color=black&label=FOLLOWERS&style=for-the-badge">
+  <img src="https://img.shields.io/github/followers/4po?color=purple&label=FOLLOWERS&style=for-the-badge">
 </a>
 
 <a href="https://discord.bio/p/apo">
-         <img src="https://img.shields.io/website?color=black&down_color=black&down_message=black&label=DISCORD&logo=black&logoColor=black&style=for-the-badge&up_color=black&up_message=DISCORD.GG%2FAPO&url=https%3A%2F%2Fdiscord.gg%2Fapo">
+         <img src="https://img.shields.io/website?color=purple&down_color=black&down_message=black&label=DISCORD&logo=black&logoColor=black&style=for-the-badge&up_color=black&up_message=DISCORD.GG%2FAPO&url=https%3A%2F%2Fdiscord.gg%2Fapo">
          </a>
 
 
