@@ -67,7 +67,9 @@ const 4po = {
       
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://twitter.com/4poUser" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @glock9v on GitHub">Follow @4po</a>
+<a href="https://discord.bio/p/apo">
+         <img src="https://img.shields.io/twitter/follow/4poUser?color=purple&logo=caca&logoColor=black&style=for-the-badge">
+         </a>
 
 
 <br>
