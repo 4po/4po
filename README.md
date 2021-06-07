@@ -71,7 +71,7 @@ const 4po = {
 <a href="https://discord.bio/p/apo"><img align='left' src="https://img.shields.io/twitter/follow/4poUser?color=purple&logo=caca&logoColor=black&style=for-the-badge">
    
     
-</a> Sur Twitter
+</a> sur Twitter
 
 
 <br>
