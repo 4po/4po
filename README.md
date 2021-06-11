@@ -80,7 +80,7 @@ const 4po = {
 
 <p align="center">
          <a href="https://discord.gg/apo">
-         <img src="https://i.imgur.com/Tdd2VeD.png">
+         <img src="https://media.discordapp.net/attachments/851049231170142288/852702846683316314/Cloud_Apo.png?width=1440&height=480">
          </a>
 https://github.com/ProphecyGit https://github.com/prphcy
 
