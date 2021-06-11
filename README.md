@@ -8,7 +8,7 @@ Hi there, thanks for stopping by, this is **Leonhart B. apo**.
 
 And go listen my new song on soundcloud https://soundcloud.com/4po 🎵 🎶
 
-<img align='right' src="https://cdn2.scratch.mit.edu/get_image/user/16311207_60x60.png" width="230">
+ <img align='right' src="https://discord.c99.nl/widget/theme-4/560617372914810883.png" width="230">
 
 ```javascript
 const 4po = {
