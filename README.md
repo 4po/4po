@@ -41,7 +41,7 @@ const 4po = {
 </a>
 
 <a href="https://discord.bio/p/apo">
-         <img src="https://img.shields.io/website?color=8136CA&down_color=prophecy&down_message=black&label=DISCORD&logo=prophecy&logoColor=black&style=for-the-badge&up_color=prophecy&up_message=DISCORD.GG%2FAPO&url=https%3A%2F%2Fdiscord.gg%apo">
+         <img src="https://img.shields.io/website?color=8136CA&down_color=prophecy&down_message=prophecy&label=DISCORD&logo=prophecy&logoColor=black&style=for-the-badge&up_color=prophecy&up_message=DISCORD.GG%2FAPO&url=https%3A%2F%2Fdiscord.gg%apo">
          </a>
 
 
