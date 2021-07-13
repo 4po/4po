@@ -4,7 +4,7 @@
 ─────────────────────────────────────
 </p>
 
-Hi there, thanks for stopping by, this is **Leonhart B. apo**.a
+Hi there, thanks for stopping by, this is **Leonhart B. apo**.
 
 And go listen my new song on soundcloud https://soundcloud.com/4po 🎵 🎶a
 
