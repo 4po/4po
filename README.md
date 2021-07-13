@@ -6,7 +6,7 @@
 
 Hi there, thanks for stopping by, this is **Leonhart B. apo**.
 
-And go listen my new song on soundcloud https://soundcloud.com/4po 🎵 🎶aaaa
+And go listen my new song on soundcloud https://soundcloud.com/4po 🎵 🎶a
 
  <img align='right' src="https://discord.c99.nl/widget/theme-4/560617372914810883.png" width="300">
 
