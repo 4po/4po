@@ -4,9 +4,9 @@
 ─────────────────────────────────────
 </p>
 
-<h1 align="center">Hi there, thanks for stopping by, this is **Leonhart B. apo**.</h1>
+<h1 align="center">Hi there, thanks you for visiting
 <p align="center">
-  <b>Lazar 16, RE Cracking</b><br>
+  <b>Leonhart, 19y Offensive Security/ Web Integrator </b><br>
   <a href="hhttps://telegram.org/apodsc">Telegram</a>
   <br></br>
 
