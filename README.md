@@ -4,9 +4,9 @@
 ─────────────────────────────────────
 </p>
 
-<h1 align="center">Hi there, thanks you for visiting
+<h1 align="center">Hi there, thanks you for visiting</h1>
 <p align="center">
-  <b>Leonhart, 19y Offensive Security/ Web Integrator </b><br>
+  <b>Leonhart, 19y Offensive Security/ Web Integrator</b><br>
   <a href="hhttps://telegram.org/apodsc">Telegram</a>
   <br></br>
 
