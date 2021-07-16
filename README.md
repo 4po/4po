@@ -84,9 +84,9 @@ const 4po = {
          <a href="https://discord.gg/apo">
          <img src="https://media.discordapp.net/attachments/852648908802490439/852722398431281172/apolad.png?width=1440&height=288">
          </a>
-https://github.com/ProphecyGit https://github.com/prphcy
+https://github.com/brigadefantome
 
-    --- Github de la team Prophecy.
+    --- Github de la  Brigade.
 
 🔎 From [@4po](https://github.com/4po)
 🔎 Instagram [@leonhski](https://www.instagram.com/leonhski/)
