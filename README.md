@@ -42,7 +42,7 @@ const 4po = {
   <img src="https://img.shields.io/github/followers/4po?color=8136CA&label=FOLLOWERS&style=for-the-badge">
 </a>
 
-<a href="https://discord.gg/prophecy">
+<a href="https://discord.gg/brigadefantome">
          <img src="https://img.shields.io/website?color=8136CA&down_color=prophecy&down_message=prophecy&label=DISCORD&logo=prophecy&logoColor=black&style=for-the-badge&up_color=prophecy&up_message=DISCORD.GG%2FAPO&url=https%3A%2F%2Fdiscord.gg%apo">
          </a>
 
@@ -60,12 +60,12 @@ const 4po = {
 
 
 <p align="center">
-   <a href="https://discord.gg/congo">
+   <a href="https://discord.gg/brigadefantome">
          <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Animated-Flag-Russia_2.gif" width="78"> 
 </p>
 
 <p align="center">
-         <a href="https://discord.gg/congo">
+         <a href="https://discord.gg/brigadefantome">
          <img src="https://i.imgur.com/tyhhKxu.gif">
          </a>
       
