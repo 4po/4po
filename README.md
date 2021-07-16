@@ -52,7 +52,7 @@ const 4po = {
 
 
 
-<a href="https://discord.gg/apo">
+<a href="https://discord.gg/brigadefantome">
    <img align='right' src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&&label=PROFILE+VIEWS&color=8136CA">
 </a>
 
