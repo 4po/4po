@@ -43,7 +43,7 @@ const 4po = {
 </a>
 
 <a href="https://discord.gg/brigadefantome">
-         <img src="https://img.shields.io/website?color=8136CA&down_color=brigadefantome&down_message=brigadefantome&label=DISCORD&logo=prophecy&logoColor=black&style=for-the-badge&up_color=brigade fantome&up_message=DISCORD.GG%2Fbrigadefantome&url=https%3A%2F%2Fdiscord.gg%brigadefantome">
+         <img src="https://img.shields.io/website?color=8136CA&down_color=brigadefantome&down_message=brigadefantome&label=DISCORD&logo=prophecy&logoColor=black&style=for-the-badge&up_color=brigade-fantome&up_message=DISCORD.GG%2Fbrigadefantome&url=https%3A%2F%2Fdiscord.gg%brigadefantome">
          </a>
 
 
