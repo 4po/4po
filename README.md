@@ -27,23 +27,23 @@ const 4po = {
 };
 ```
 
-### My Languages Skills <br/> <br/> ![Python](https://img.shields.io/badge/-Python-8136CA?style=flat-square&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-8136CA?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-8136CA?style=flat-square&logoColor=white&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-8136CA?style=flat-square&logoColor=white&logo=javascript) ![PHP](https://img.shields.io/badge/-PHP-8136CA?style=flat-square&logo=php&logoColor=white) ![REACT](https://img.shields.io/badge/-React-8136CA?style=flat-square&logo=react&logoColor=white) ![C#](https://img.shields.io/badge/-C%20Sharp-8136CA?style=flat-square&logo=c%20sharp&logoColor=white) ![nodejs](https://img.shields.io/badge/-NodeJS-8136CA?style=flat-square&logo=Node.js&logoColor=white) ![Go](https://img.shields.io/badge/-Go-666699?style=flat-square&logo=Go&logoColor=white)
+### My Languages Skills <br/> <br/> ![Python](https://img.shields.io/badge/-Python-00b300?style=flat-square&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-00b300?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-00b300?style=flat-square&logoColor=white&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-00b300?style=flat-square&logoColor=white&logo=javascript) ![PHP](https://img.shields.io/badge/-PHP-00b300?style=flat-square&logo=php&logoColor=white) ![REACT](https://img.shields.io/badge/-React-00b300?style=flat-square&logo=react&logoColor=white) ![C#](https://img.shields.io/badge/-C%20Sharp-00b300?style=flat-square&logo=c%20sharp&logoColor=white) ![nodejs](https://img.shields.io/badge/-NodeJS-00b300?style=flat-square&logo=Node.js&logoColor=white) ![Go](https://img.shields.io/badge/-Go-666699?style=flat-square&logo=Go&logoColor=white)
 
 
 <p align="center">
 ─────────────────────────────────────
 </p>
 
-![4po's GitHub stats](https://github-readme-stats.vercel.app/api?username=4po&show_icons=true&theme=midnight-purple)
+![4po's GitHub stats](https://github-readme-stats.vercel.app/api?username=4po&show_icons=true&theme=green)
 
 
 
 <a href="https://github.com/4po">
-  <img src="https://img.shields.io/github/followers/4po?color=8136CA&label=FOLLOWERS&style=for-the-badge">
+  <img src="https://img.shields.io/github/followers/4po?color=00ff00&label=FOLLOWERS&style=for-the-badge">
 </a>
 
 <a href="https://discord.gg/brigadefantome">
-         <img src="https://img.shields.io/website?color=8136CA&down_color=brigadefantome&down_message=brigadefantome&label=DISCORD&logo=prophecy&logoColor=black&style=for-the-badge&up_color=brigade-fantome&up_message=DISCORD.GG%2Fbrigadefantome&url=https%3A%2F%2Fdiscord.gg%brigadefantome">
+         <img src="https://img.shields.io/website?color=00ff00&down_color=brigadefantome&down_message=brigadefantome&label=DISCORD&logo=prophecy&logoColor=black&style=for-the-badge&up_color=brigade-fantome&up_message=DISCORD.GG%2Fbrigadefantome&url=https%3A%2F%2Fdiscord.gg%brigadefantome">
          </a>
 
 
@@ -53,7 +53,7 @@ const 4po = {
 
 
 <a href="https://discord.gg/brigadefantome">
-   <img align='right' src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&&label=PROFILE+VIEWS&color=8136CA">
+   <img align='right' src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&&label=PROFILE+VIEWS&color=00ff00">
 </a>
 
 
@@ -72,7 +72,7 @@ const 4po = {
 
 <!-- Place this tag where you want the button to render. -->
 
-<a href="https://twitter.com/4poUser"><img align='left' src="https://img.shields.io/twitter/follow/4poUser?color=8136CA&logo=caca&logoColor=black&style=for-the-badge">
+<a href="https://twitter.com/4poUser"><img align='left' src="https://img.shields.io/twitter/follow/4poUser?color=00ff00&logo=caca&logoColor=black&style=for-the-badge">
    
     
 <a class="github-button" href="https://twitter.com/4poUser" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @g4po on GitHub">sur Twitter</a>
