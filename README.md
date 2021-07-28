@@ -66,7 +66,7 @@ const 4po = {
 
 <p align="center">
          <a href="https://discord.gg/brigadefantome">
-         <img src="https://i.imgur.com/tyhhKxu.gif">
+         <img src="https://i.imgur.com/K9fKdge.gif">
          </a>
       
 
