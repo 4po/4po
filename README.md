@@ -34,7 +34,7 @@ const 4po = {
 ─────────────────────────────────────
 </p>
 
-![4po's GitHub stats](https://github-readme-stats.vercel.app/api?username=4po&show_icons=true&theme=green)
+![4po's GitHub stats](https://github-readme-stats.vercel.app/api?username=4po&show_icons=true&theme=chartreuse-dark)
 
 
 
