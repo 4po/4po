@@ -82,7 +82,7 @@ const 4po = {
 
 <p align="center">
          <a href="https://discord.gg/apo">
-         <img src="https://media.discordapp.net/attachments/852648908802490439/852722398431281172/apolad.png?width=1440&height=288">
+         <img src="https://media.discordapp.net/attachments/843491493225955329/869943478921089054/unknown.png?width=1440&height=288">
          </a>
 https://github.com/brigadefantome & https://github.com/brigadef
 
