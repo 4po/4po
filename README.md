@@ -67,7 +67,7 @@
 
 <p align="center">
          <a href="https://discord.gg/apo">
-         <img src="https://media.discordapp.net/attachments/843491493225955329/869943478921089054/unknown.png?width=1440&height=288">
+         <img src="https://media.discordapp.net/attachments/837035432281374781/870765779434504312/oe3.png?width=1441&height=302">
          </a>
 https://github.com/brigadefantome & https://github.com/brigadef
 
