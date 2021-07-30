@@ -28,7 +28,7 @@
 </a>
 
 <a href="https://discord.gg/apo">
-         <img src="https://img.shields.io/website?color=00ff00&down_color=brigadefantome&down_message=brigadefantome&label=DISCORD&logo=apo&logoColor=black&style=for-the-badge&up_color=APO&up_message=DISCORD.GG%2Fapo&url=https%3A%2F%2Fdiscord.gg%apo">
+         <img src="https://img.shields.io/website?color=00ff00&down_color=APO&down_message=brigadefantome&label=DISCORD&logo=apo&logoColor=black&style=for-the-badge&up_color=APO&up_message=DISCORD.GG%2Fapo&url=https%3A%2F%2Fdiscord.gg%apo">
          </a>
 
 
