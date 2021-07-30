@@ -12,21 +12,6 @@
 
  <img align='right' src="https://discord.c99.nl/widget/theme-4/560617372914810883.png" width="300">
 
-```javascript
-const 4po = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "game"],
-    technologies: {
-        frontEnd: {
-            js: ["Vue", "React", "Angular"],
-            css: ["bootstrap", "sass"]
-        },
-        backEnd: ["Java", "PHP"],
-        databases: ["MySql", "oracle"],
-    }
-};
-```
-
 ### My Languages Skills <br/> <br/> ![Python](https://img.shields.io/badge/-Python-00b300?style=flat-square&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-00b300?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-00b300?style=flat-square&logoColor=white&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-00b300?style=flat-square&logoColor=white&logo=javascript) ![PHP](https://img.shields.io/badge/-PHP-00b300?style=flat-square&logo=php&logoColor=white) ![REACT](https://img.shields.io/badge/-React-00b300?style=flat-square&logo=react&logoColor=white) ![C#](https://img.shields.io/badge/-C%20Sharp-00b300?style=flat-square&logo=c%20sharp&logoColor=white) ![nodejs](https://img.shields.io/badge/-NodeJS-00b300?style=flat-square&logo=Node.js&logoColor=white) ![Go](https://img.shields.io/badge/-Go-666699?style=flat-square&logo=Go&logoColor=white)
 
 
