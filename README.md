@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/github/followers/4po?color=00ff00&label=FOLLOWERS&style=for-the-badge">
 </a>
 
-<a href="https://discord.gg/brigadefantome">
+<a href="https://discord.gg/apo">
          <img src="https://img.shields.io/website?color=00ff00&down_color=brigadefantome&down_message=brigadefantome&label=DISCORD&logo=prophecy&logoColor=black&style=for-the-badge&up_color=brigade-fantome&up_message=DISCORD.GG%2Fbrigadefantome&url=https%3A%2F%2Fdiscord.gg%brigadefantome">
          </a>
 
@@ -37,7 +37,7 @@
 
 
 
-<a href="https://discord.gg/brigadefantome">
+<a href="https://discord.gg/apo">
    <img align='right' src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&&label=PROFILE+VIEWS&color=00ff00">
 </a>
 
@@ -45,12 +45,12 @@
 
 
 <p align="center">
-   <a href="https://discord.gg/brigadefantome">
+   <a href="https://discord.gg/apo">
          <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Animated-Flag-Russia_2.gif" width="78"> 
 </p>
 
 <p align="center">
-         <a href="https://discord.gg/brigadefantome">
+         <a href="https://discord.gg/apo">
          <img src="https://i.imgur.com/K9fKdge.gif">
          </a>
       
