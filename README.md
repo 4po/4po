@@ -1,4 +1,4 @@
-<p align="center"><img src="https://im7.ezgif.com/tmp/ezgif-7-7a3302bd45be.gif" width="2000"> 
+<p align="center"><img src="blob:https://imgur.com/3cc2e494-fb1b-45a7-8e70-c7f5171326a2" width="2000"> 
 
 <p align="center">
 ─────────────────────────────────────
