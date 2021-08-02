@@ -24,11 +24,11 @@
 
 
 <a href="https://github.com/4po">
-  <img src="https://img.shields.io/github/followers/4po?color=00ff00&label=FOLLOWERS&style=for-the-badge">
+  <img src="https://img.shields.io/github/followers/4po?color=172f45&label=FOLLOWERS&style=for-the-badge">
 </a>
 
 <a href="https://discord.gg/apo">
-         <img src="https://img.shields.io/website?color=00ff00&down_color=APO&down_message=APO&label=DISCORD&logo=apo&logoColor=black&style=for-the-badge&up_color=APO&up_message=DISCORD.GG%2Fapo&url=https%3A%2F%2Fdiscord.gg%apo">
+         <img src="https://img.shields.io/website?color=172f45&down_color=APO&down_message=APO&label=DISCORD&logo=apo&logoColor=black&style=for-the-badge&up_color=APO&up_message=DISCORD.GG%2Fapo&url=https%3A%2F%2Fdiscord.gg%apo">
          </a>
 
 
@@ -38,7 +38,7 @@
 
 
 <a href="https://discord.gg/apo">
-   <img align='right' src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&&label=PROFILE+VIEWS&color=00ff00">
+   <img align='right' src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&&label=PROFILE+VIEWS&color=172f45">
 </a>
 
 
