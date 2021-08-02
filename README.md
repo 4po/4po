@@ -57,7 +57,7 @@
 
 <!-- Place this tag where you want the button to render. -->
 
-<a href="https://twitter.com/4poUser"><img align='left' src="https://img.shields.io/twitter/follow/4poUser?color=00ff00&logo=caca&logoColor=black&style=for-the-badge">
+<a href="https://twitter.com/4poUser"><img align='left' src="https://img.shields.io/twitter/follow/4poUser?color=172f40&logo=caca&logoColor=black&style=for-the-badge">
    
     
 <a class="github-button" href="https://twitter.com/4poUser" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @g4po on GitHub">sur Twitter</a>
