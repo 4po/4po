@@ -51,7 +51,7 @@
 
 <p align="center">
          <a href="https://discord.gg/apo">
-         <img src="https://i.imgur.com/YZ9k3AA.gif">
+         <img src="https://i.imgur.com/u0AbnKr.gif">
          </a>
       
 
