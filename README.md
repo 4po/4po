@@ -69,9 +69,9 @@
          <a href="https://discord.gg/apo">
          <img src="https://media.discordapp.net/attachments/837035432281374781/870765779434504312/oe3.png?width=1441&height=302">
          </a>
-https://github.com/brigadefantome & https://github.com/brigadef
+https://github.com/apodiscord & https://github.com/brigadef
 
-    --- Github de la  Brigade.
+    --- Github de la APO et Brigade Fantôme.
 
 🔎 From [@4po](https://github.com/4po)
 🔎 Instagram [@menaceApo](https://www.instagram.com/menaceapo/)
