@@ -12,7 +12,7 @@
 
  <img align='center' src="https://discord.c99.nl/widget/theme-4/560617372914810883.png" width="300">
 
-### My Languages Skills <br/> <br/> ![Python](https://img.shields.io/badge/-Python-317ec0?style=flat-square&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-020202?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-317ec0?style=flat-square&logoColor=white&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-317ec0?style=flat-square&logoColor=white&logo=javascript) ![PHP](https://img.shields.io/badge/-PHP-317ec0?style=flat-square&logo=php&logoColor=white) ![REACT](https://img.shields.io/badge/-React-317ec0?style=flat-square&logo=react&logoColor=white) ![C#](https://img.shields.io/badge/-C%20Sharp-317ec0?style=flat-square&logo=c%20sharp&logoColor=white) ![nodejs](https://img.shields.io/badge/-NodeJS-317ec0?style=flat-square&logo=Node.js&logoColor=white) ![Go](https://img.shields.io/badge/-Go-317ec0?style=flat-square&logo=Go&logoColor=white)
+### My Languages Skills <br/> <br/> ![Python](https://img.shields.io/badge/-Python-020202?style=flat-square&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-020202?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-317ec0?style=flat-square&logoColor=white&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-020202?style=flat-square&logoColor=white&logo=javascript) ![PHP](https://img.shields.io/badge/-PHP-020202?style=flat-square&logo=php&logoColor=white) ![REACT](https://img.shields.io/badge/-React-020202?style=flat-square&logo=react&logoColor=white) ![C#](https://img.shields.io/badge/-C%20Sharp-020202?style=flat-square&logo=c%20sharp&logoColor=white) ![nodejs](https://img.shields.io/badge/-NodeJS-020202?style=flat-square&logo=Node.js&logoColor=white) ![Go](https://img.shields.io/badge/-Go-020202?style=flat-square&logo=Go&logoColor=white)
 
 
 <p align="center">
@@ -24,11 +24,11 @@
 
 
 <a href="https://github.com/4po">
-  <img src="https://img.shields.io/github/followers/4po?color=33a1ff&label=FOLLOWERS&style=for-the-badge">
+  <img src="https://img.shields.io/github/followers/4po?color=020202&label=FOLLOWERS&style=for-the-badge">
 </a>
 
 <a href="https://discord.gg/apo">
-         <img src="https://img.shields.io/website?color=33a1ff&down_color=APO&down_message=APO&label=DISCORD&logo=apo&logoColor=black&style=for-the-badge&up_color=APO&up_message=DISCORD.GG%2Fapo&url=https%3A%2F%2Fdiscord.gg%apo">
+         <img src="https://img.shields.io/website?color=020202&down_color=APO&down_message=APO&label=DISCORD&logo=apo&logoColor=black&style=for-the-badge&up_color=APO&up_message=DISCORD.GG%2Fapo&url=https%3A%2F%2Fdiscord.gg%apo">
          </a>
 
 
@@ -38,7 +38,7 @@
 
 
 <a href="https://discord.gg/apo">
-   <img align='right' src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&&label=PROFILE+VIEWS&color=33a1ff">
+   <img align='right' src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&&label=PROFILE+VIEWS&color=020202">
 </a>
 
 
