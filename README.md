@@ -7,7 +7,7 @@
 <h1 align="center">Hi there, thanks you for visiting</h1>
 <p align="center">
   <b>Leonhart, 19y Offensive Security/ Web Integrator</b><br>
-  <a href="https://telegram.me/username">Telegram</a>JJJ
+  <a href="https://telegram.me/username">Telegram</a>
   <br></br>
 
  <img align='center' src="https://discord.c99.nl/widget/theme-4/560617372914810883.png" width="300">
