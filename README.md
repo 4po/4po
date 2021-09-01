@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/LAajnm0.gif" width="2000"> 
 
 <p align="center">
-─────────────────────────────────────
+
 </p>
 
 <h1 align="center">Hi there, thanks you for visiting</h1>
