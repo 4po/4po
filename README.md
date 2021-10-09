@@ -27,8 +27,8 @@
   <img src="https://img.shields.io/github/followers/4po?color=020202&label=FOLLOWERS&style=for-the-badge">
 </a>
 
-<a href="https://discord.gg/apo">
-         <img src="https://img.shields.io/website?color=020202&down_color=APO&down_message=APO&label=DISCORD&logo=apo&logoColor=black&style=for-the-badge&up_color=APO&up_message=DISCORD.GG%2Fapo&url=https%3A%2F%2Fdiscord.gg%apo">
+<a href="https://discord.gg/Crytek">
+         <img src="https://img.shields.io/website?color=020202&down_color=Crytek&down_message=Crytek&label=DISCORD&logo=Crytek&logoColor=black&style=for-the-badge&up_color=Crytek&up_message=DISCORD.GG%2FCrytek&url=https%3A%2F%2Fdiscord.gg%Crytek">
          </a>
 
 
@@ -37,7 +37,7 @@
 
 
 
-<a href="https://discord.gg/apo">
+<a href="https://discord.gg/Crytek">
    <img align='right' src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&&label=PROFILE+VIEWS&color=020202">
 </a>
 
@@ -45,12 +45,12 @@
 
 
 <p align="center">
-   <a href="https://discord.gg/apo">
+   <a href="https://discord.gg/Crytek">
          <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Animated-Flag-Russia_2.gif" width="78"> 
 </p>
 
 <p align="center">
-         <a href="https://discord.gg/apo">
+         <a href="https://discord.gg/Crytek">
          <img src="https://i.imgur.com/u0AbnKr.gif">
          </a>
       
@@ -66,12 +66,12 @@
 <br>
 
 <p align="center">
-         <a href="https://discord.gg/apo">
+         <a href="https://discord.gg/Crytek">
          <img src="https://media.discordapp.net/attachments/837035432281374781/870765779434504312/oe3.png?width=1441&height=302">
          </a>
-https://github.com/apodiscord & https://github.com/brigadef
+https://github.com/Crytekgroup 
 
-    --- Github de la APO et Brigade Fantôme.
+    --- Github de la Crytek.
 
 🔎 From [@4po](https://github.com/4po)
 🔎 Instagram [@menaceApo](https://www.instagram.com/menaceapo/)
