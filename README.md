@@ -69,7 +69,7 @@
          <a href="https://discord.gg/Crytek">
          <img src="https://media.discordapp.net/attachments/837035432281374781/870765779434504312/oe3.png?width=1441&height=302">
          </a>
-https://github.com/Crytekgroup 
+https://github.com/cryteKgroup 
 
     --- Github de la Crytek.
 
