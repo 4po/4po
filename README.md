@@ -56,10 +56,6 @@
 
 <!-- Place this tag where you want the button to render. -->
 
-<a href="https://twitter.com/4poUser"><img align='left' src="https://img.shields.io/twitter/follow/4poUser?color=33a1ff&logo=caca&logoColor=black&style=for-the-badge">
-   
-<br>
-
 <p align="center">
          <a href="https://discord.gg/Crytek">
          <img src="https://media.discordapp.net/attachments/837035432281374781/870765779434504312/oe3.png?width=1441&height=302">
