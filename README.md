@@ -74,3 +74,4 @@ https://github.com/cryteKgroup
 
 🔎 From [@4po](https://github.com/4po)
 🔎 Instagram [@menaceApo](https://www.instagram.com/menaceapo/)
+🔎 Discord [@apo#0001](https://discord.gg/Crytek/)
