@@ -70,8 +70,7 @@
          </a>
 https://github.com/cryteKgroup 
 
-    --- Github de la Crytek.
-
 🔎 From [@4po](https://github.com/4po)
 🔎 Instagram [@menaceApo](https://www.instagram.com/menaceapo/)
 🔎 Discord [@apo#0001](https://discord.gg/Crytek/)
+🔎 Crytek Group [@Crytek](https://github.com/cryteKgroup /)
