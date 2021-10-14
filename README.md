@@ -50,7 +50,7 @@
 
 <p align="center">
          <a href="https://discord.gg/Crytek">
-         <img src="https://i.imgur.com/u0AbnKr.gif">
+         <img src="https://i.imgur.com/j10rPzN.png">
          </a>
       
 
