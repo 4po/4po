@@ -19,7 +19,7 @@
 ─────────────────────────────────────
 </p>
 
-![4po's GitHub stats](https://github-readme-stats.vercel.app/api?username=4po&show_icons=true&theme=midnight-purple)
+![4po's GitHub stats](https://github-readme-stats.vercel.app/api?username=4po&show_icons=true&theme=react)
 
 
 
