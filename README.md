@@ -4,7 +4,7 @@
 
 </p>
 
-<h1 align="center">👋</h1>
+<h1 align="center">🌌</h1>
 <p align="center">
   <b>Leonhart, 19y Offensive Security/ Web Integrator</b><br>
   <a href="https://telegram.me/username">Telegram</a>
