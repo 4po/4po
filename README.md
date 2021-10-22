@@ -58,7 +58,7 @@
 
 <p align="center">
          <a href="https://discord.gg/Crytek">
-         <img src="https://i.imgur.com/KAdAm92.png">
+         <img src="https://cdn.kapwing.com/final_6172658ff26f0000a2bfc16e_946726.gif">
          </a>
 
 🔎 From [@4po](https://github.com/4po)
