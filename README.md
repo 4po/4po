@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/BPYbwx2.gif" width="2000"> 
+<p align="center"><img src="https://cdn.kapwing.com/final_6172658ff26f0000a2bfc16e_946726.gif" width="2000"> 
 
 <p align="center">
 
@@ -58,7 +58,7 @@
 
 <p align="center">
          <a href="https://discord.gg/Crytek">
-         <img src="https://cdn.kapwing.com/final_6172658ff26f0000a2bfc16e_946726.gif">
+         <img src="https://i.imgur.com/BPYbwx2.gif">
          </a>
 
 🔎 From [@4po](https://github.com/4po)
