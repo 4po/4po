@@ -58,7 +58,7 @@
 
 <p align="center">
          <a href="https://discord.gg/Crytek">
-         <img src="https://i.imgur.com/BPYbwx2.gif">
+         <img src="https://i.imgur.com/BPYbwx2.gif" width="2000"> 
          </a>
 
 🔎 From [@4po](https://github.com/4po)
