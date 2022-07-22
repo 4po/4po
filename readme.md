@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/aOeNsDD.gif" width="900"> 
+<p align="center"><img src="https://i.imgur.com/aOeNsDD.gif" width="850"> 
 
 <p align="center">
 
@@ -50,7 +50,7 @@
 
 <p align="center">
          <a href="https://discord.gg/Crytek">
-         <img src="https://i.imgur.com/j10rPzN.png" width="500>
+         <img src="https://i.imgur.com/j10rPzN.png" width="850>
          </a>
       
 
