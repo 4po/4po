@@ -64,4 +64,4 @@
 🔎 From [@4po](https://github.com/4po)
 🔎 Instagram [@closed](https://www.instagram.com/closed/)
 🔎 Discord [@apo#0001](https://discord.gg/470/)
-🔎 Crytek [@Github](https://github.com/apomediacenter/)
+🔎 APOMEDIACENTER [@Github](https://github.com/apomediacenter/)
