@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/github/followers/4po?color=020202&label=FOLLOWERS&style=for-the-badge">
 </a>
 
-<a href="https://discord.gg/Crytek">
+<a href="https://discord.gg/470">
          <img src="https://img.shields.io/website?color=020202&down_color=Crytek&down_message=Crytek&label=DISCORD&logo=Crytek&logoColor=black&style=for-the-badge&up_color=Crytek&up_message=DISCORD.GG%2FCrytek&url=https%3A%2F%2Fdiscord.gg%Crytek">
          </a>
 
@@ -36,7 +36,7 @@
 
 
 
-<a href="https://discord.gg/Crytek">
+<a href="https://discord.gg/470">
    <img align='right' src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&&label=PROFILE+VIEWS&color=020202">
 </a>
 
@@ -44,7 +44,7 @@
 
 
 <p align="center">
-   <a href="https://discord.gg/Crytek">
+   <a href="https://discord.gg/470">
          <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Animated-Flag-Russia_2.gif" width="78"> 
 </p>
 
