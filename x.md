@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-         <a href="https://discord.gg/Crytek">
+         <a href="https://discord.gg/470">
          <img src="https://i.imgur.com/j10rPzN.png" width="850>
          </a>
       
@@ -57,11 +57,11 @@
 <!-- Place this tag where you want the button to render. -->
 
 <p align="center">
-         <a href="https://discord.gg/Crytek">
+         <a href="https://discord.gg/470">
          <img src="https://i.imgur.com/BPYbwx2.gif" width="850"> 
          </a>
 
 🔎 From [@4po](https://github.com/4po)
-🔎 Instagram [@menaceApo](https://www.instagram.com/menaceapo/)
-🔎 Discord [@apo#0001](https://discord.gg/Crytek/)
-🔎 Crytek [@Github](https://github.com/cryteKgroup/)
+🔎 Instagram [@closed](https://www.instagram.com/closed/)
+🔎 Discord [@apo#0001](https://discord.gg/470/)
+🔎 Crytek [@Github](https://github.com/apomediacenter/)
