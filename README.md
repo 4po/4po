@@ -1,23 +1,11 @@
-<p align="center">
-  <img src="https://i.imgur.com/tQVbAeb.png?:"  alt="Logo" width="150" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=gore+%7C+4po)](https://git.io/typing-svg)
+<img align="left" src="https://i.imgur.com/tQVbAeb.png" width="200"/> 
 
-
-
-<p align="center">
-  <a href="https://paulo.com">
-    <img src="https://img.shields.io/badge/e-sex.me-000000?style=for-the-badge&logo=globe&logoColor=white" alt="e-sex.me" />
-  <a href="https://levbuko.com">
-    <img src="https://img.shields.io/badge/guns.lol-000000?style=for-the-badge&logo=globe&logoColor=white" alt="guns.lol/iev" />
-  <a href="https://discord.com/invite/s3x3">
-    <img src="https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=globe&logoColor=white" alt="discord" />
-  </a>
-
-
-
-<p align="center">
-  <a href="https://discord.gg/s3x3">
-    <img src="https://komarev.com/ghpvc/?username=4po&style=flat-square&&label=VIEWS&color=000000" alt="Profile Views">
-  </a>
-</p>
-
+```csharp
+github.com/4po
+website   $  e-sex.me
+guns   $  guns.lol/iev
+```
+&zwnj; 
+&zwnj; 
+<img src="https://komarev.com/ghpvc/?username=4po&style=flat-square&label=VIEWS&color=000000" alt="Profile Views" />
