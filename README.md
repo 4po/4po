@@ -16,5 +16,8 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Views-1000-000000?style=for-the-badge&logo=eye&logoColor=white" alt="View Count" />
+  <a href="https://discord.gg/470">
+    <img src="https://komarev.com/ghpvc/?username=4po&style=flat-square&&label=VIEWS&color=000000" alt="Profile Views">
+  </a>
 </p>
+
