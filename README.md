@@ -7,16 +7,16 @@
 <p align="center">
   <a href="https://paulo.com">
     <img src="https://img.shields.io/badge/e-sex.me-000000?style=for-the-badge&logo=globe&logoColor=white" alt="e-sex.me" />
-  </a>
   <a href="https://levbuko.com">
     <img src="https://img.shields.io/badge/guns.lol-000000?style=for-the-badge&logo=globe&logoColor=white" alt="guns.lol/iev" />
+  <a href="https://discord.com/invite/s3x3">
+    <img src="https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=globe&logoColor=white" alt="discord" />
   </a>
-
 
 
 
 <p align="center">
-  <a href="https://discord.gg/470">
+  <a href="https://discord.gg/s3x3">
     <img src="https://komarev.com/ghpvc/?username=4po&style=flat-square&&label=VIEWS&color=000000" alt="Profile Views">
   </a>
 </p>
