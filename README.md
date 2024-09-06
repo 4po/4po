@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media-assets.grailed.com/prd/detail-page/be05db2616b140cfac708c5578beeca5?:" alt="Gothic Banner" width="100%" />
+  <img src="https://i.imgur.com/tQVbAeb.png?:"  alt="Logo" width="150" />
 </p>
 
 
